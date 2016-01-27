@@ -4,7 +4,7 @@ A PHP library for obtaining Trustpilot API codes.
 
 This library has been developed and open sourced by [moneymaxim](https://www.moneymaxim.co.uk).
 
-We are currently on the look out for PHP programming talent, so please [get in touch](andrew.carter@moneymaxim.co.uk) if you are interested.
+We are currently on the look out for PHP programming talent, so please [get in touch](mailto:andrew.carter@moneymaxim.co.uk) if you are interested.
 
 ## Install
 
