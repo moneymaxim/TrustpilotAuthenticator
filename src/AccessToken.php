@@ -59,7 +59,7 @@ class AccessToken implements \Serializable
      */
     public function hasExpired()
     {
-        return $this->expiry->getTimestamp() > time();
+        return $this->expiry->getTimestamp() < time();
     }
 
     /**
